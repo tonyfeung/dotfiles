@@ -8,11 +8,23 @@
 *.so
 *.pyc
 
+# Package Files #
+#################
+*.jar
+*.war
+*.ear
+
 # Editing tools and IDEs #
 ##########################
 *.swp
 *~
+.project
+.settings/
+*/.classpath
+*/.project
+*/.settings/
 *.iml
+.idea
 
 # Logs and databases #
 ######################

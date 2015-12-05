@@ -143,3 +143,6 @@
 	added = green
 	changed = red
 	untracked = cyan
+[user]
+	name = pbnguyen
+	email = phuongbnguyen@kms-technology.com
